@@ -1,1 +1,1 @@
-# mlflow_workshop
+# SDS2022 MLFlow Workshop
